@@ -1,0 +1,40 @@
+{
+    "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "name": "personal",
+            "description": "Fireworks intended for recreational use during non holiday events"
+        },
+        {
+        	"id": 1,
+            "category": 0,
+            "name": "holiday",
+            "description": "Fireworks that are specific to a certain holiday"
+        },
+        {
+        	"id": 2,
+            "category": 0,
+            "name": "cheap",
+            "description": "Generic, run of the mill, most likely sold in a gas station or grocery store."
+        },
+        {
+        	"id": 3,
+            "category": 1,
+            "name": "Anarchy",
+            "description": "Mad at your goverment? Resolve it with some Nitro Glycerine"
+        },
+        {
+        	"id": 4,
+            "category": 1,
+            "name": "Construction",
+            "description": "Most of the time you have to tear down before you can rebuild, its usually faster with explosives"
+        },
+        {
+        	"id": 5,
+            "category": 1,
+            "name": "deterrent",
+            "description": "Discourage any would-be home invaders by littering your domain with a few burried treasures"
+        }
+    ]
+}

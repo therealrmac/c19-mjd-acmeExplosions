@@ -1,0 +1,112 @@
+{
+    "products": [
+        { 
+            "id": 0,
+            "type": 0,
+            "name": "m80",
+            "description": "A fan favorite, mainly among kids, be careful when lighting because you could lose a finger or worse."
+        },
+        { 
+            "id": 1,
+            "type": 0,
+            "name": "cherry bomb",
+            "description": "Another popular product, smaller than the m80 but everybit as loud."
+        },
+        {
+            "id": 2,
+            "type": 0,
+            "name": "Roman candle",
+            "description": "Shoots several fireballs at different intervals while increasing in range."
+        },
+        { 
+            "id": 3,
+            "type": 0,
+            "name": "Excalibur",
+            "description": "Launches mortar shells into the air that burst into colorful plumes, each round has a different effect."
+        },
+        { 
+            "id": 4,
+            "type": 0,
+            "name": "Chrysanthemum",
+            "description": "Mortar fireworks that explode into bright vibrant colors."
+        },
+        {
+            "id": 5,
+            "type": 0,
+            "name": "Dahlia",
+            "description": "Standard artillery fireworks that explode with red, white, and blue plumes."
+        },
+        { 
+            "id": 6,
+            "type": 0,
+            "name": "Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },  
+        { 
+            "id": 7,
+            "type": 0,
+            "name": "Black cat Citrus",
+            "description": "This fireworks ignites and immediately showers the sky and ground with sparks and much more."
+        },
+        { 
+            "id": 8,
+            "type": 0,
+            "name": "Fire Cracker",
+            "description": "You light, you throw, you smile."
+        },
+        { 
+            "id": 9,
+            "type": 1,
+            "name": "Napalm",
+            "description": "Made by using a gelling agent with petrol to create a very sticky and flamable product that will melt bricks."
+        },
+        { 
+            "id": 10,
+            "type": 1,
+            "name": "Moltov Cocktail",
+            "description": "A crude incendiary device that involves a bottle filled with a flamable liquid with a raq or related source to ignite."
+        },
+        { 
+            "id": 11,
+            "type": 1,
+            "name": "Thermite",
+            "description": "An easy to make product that is hot enough to burn through steel."
+        }, 
+        {
+            "id": 12,
+            "type": 1,
+            "name": "Dynamite",
+            "description": "Used in every common demolition job across the world, the product of turning nitro glycerin into an explosive liquid."
+        },
+        {
+            "id": 13,
+            "type": 1,
+            "name": "C4",
+            "description": "Common variety of plastic explosive composed of explosives, plastic binder and a plasticizer to make it malleable."
+        },
+        { 
+            "id": 14,
+            "type": 1,
+            "name": "Semetex",
+            "description": "A general purpose plastic explosive containing RDX and PETN, used in comercial blasting and demolition."
+        },
+        { 
+            "id": 15,
+            "type": 1,
+            "name": "Land Mine",
+            "description": "An explosive device concealed under the ground designed to eliminate hostile targets or vehicles."
+        },
+        { 
+            "id": 16,
+            "type": 1,
+            "name": "Claymore",
+            "description": "Unlike the land mine a claymore is detonated by remote control and fires several metal balls into its line of fire like a shot gun."
+        },
+        {
+            "id": 17,
+            "type": 1,
+            "name": "Trip Wire",
+            "description": "A passive triggering mechanism that is attached to a device for detecting or reacting to movement."
+        }
+    ]
+}
